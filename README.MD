@@ -4,7 +4,7 @@ WallSearch
 
 Установка:
 ===================
-Установите vkOpt
-Установите GreaseMonkey\TamperMonkey
-Нажмите на скрипт, затем на Raw, чтобы установить
+- Установите vkOpt
+- Установите GreaseMonkey\TamperMonkey
+- Нажмите на скрипт, затем на Raw, чтобы установить
 
